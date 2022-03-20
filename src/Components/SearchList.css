@@ -1,0 +1,9 @@
+.search-results_title {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(241, 226, 221);
+    font-size: 35px;
+    margin: 200px;
+    }
+.btn-outline-success {
+    color:rgb(241, 226, 221);
+}

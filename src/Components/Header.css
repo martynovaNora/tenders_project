@@ -1,0 +1,15 @@
+.header {
+    background: lightgray;
+}
+.header__title {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(241, 226, 221);
+    text-align: center;
+}
+.header_block {
+    display: flex;
+    align-items: center;
+    
+    
+
+}

@@ -1,0 +1,34 @@
+.container-xxl {
+    color: rgb(241, 226, 221);
+    border: 1px solid #ebebeb;
+    border-radius: 3px;
+    padding: 20px;
+    
+}
+
+div {
+    display: block;
+    box-sizing: border-box;
+}
+.p-2  {
+    color: rgb(241, 226, 221);
+    font-weight: bold;
+}
+
+/* .tenders_procurement {
+    font-size: 13px;
+    line-height: 20px;
+    font-style: normal;
+    font-weight: 400;
+    
+}
+.tenders_price{
+    font-size: 19px;
+    line-height: 24px;
+    font-style: normal;
+    font-weight: 500;
+} */
+.tenders_title, .type {
+    color: #909ebb;
+    font-size: 11px;
+}
